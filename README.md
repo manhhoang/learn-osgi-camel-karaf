@@ -1,0 +1,1 @@
+# learn-osgi-camel-karaf
